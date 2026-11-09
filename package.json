@@ -1,0 +1,8 @@
+{
+  "name": "clocktower-solo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
